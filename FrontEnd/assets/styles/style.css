@@ -1,0 +1,30 @@
+.navbar-brand {
+    color: darkcyan;
+   
+}
+
+ /* slide */
+ .slide {
+     min-height: 66.5vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     position: relative;
+}
+
+.carousel-item{
+  height: 75vh;
+  width: 300px;
+  background-color: black;
+}
+
+.img{
+  background-image: url(../img/image15.jpg);
+  width: 40vw;
+  height: 85vh;
+}
+#intro {
+  background-image: url("../img/image15.jpg");
+  height: 85vh;
+  width: 100vw;
+}
